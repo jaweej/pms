@@ -1,0 +1,2 @@
+class Tbill(Bond):
+    pass
