@@ -1,2 +1,3 @@
 class Bond():
+    """Bond"""
     pass
