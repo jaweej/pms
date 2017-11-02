@@ -1,3 +1,3 @@
 class Tbill(Bond):
-    """TBill"""
+    """TBill instrument"""
     pass
