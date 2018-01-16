@@ -1,2 +1,12 @@
-numpy==1.11.3
-pandas==0.19.2
+Flask
+gunicorn
+datetime
+dash
+dash_core_components
+dash_html_components
+dash-renderer
+pandas_datareader
+plotly
+numpy
+pandas
+
