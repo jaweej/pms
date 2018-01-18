@@ -95,7 +95,7 @@ def set_display_children(selected_country, selected_city):
     [dash.dependencies.Input('countries-dropdown', 'value'),
      dash.dependencies.Input('cities-dropdown', 'value')])
 def set_chart_title(selected_country, selected_city):
-    str_ = u'{} is a city in {}'.format(selected_city, selected_country)
+    str_ = u'{} is a great city in {}'.format(selected_city, selected_country)
     return get_figure(str_)
 
 
