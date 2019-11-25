@@ -1,3 +1,3 @@
 class Bond():
-    """Bond"""
+    """ Bond """
     pass
