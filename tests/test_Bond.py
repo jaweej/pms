@@ -1,3 +1,6 @@
+import os
+
+print(os.getcwd())
 from src.Bond import Bond
 
 def test_Bond():
