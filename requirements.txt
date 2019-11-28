@@ -8,4 +8,4 @@ pandas_datareader
 plotly
 numpy
 pandas
-
+apache-airflow
