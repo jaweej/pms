@@ -1,5 +1,5 @@
-apache-airflow==1.10.6
-gunicorn==19.5.0
+apache-airflow==3.3.1
+gunicorn==26.2.0
 Flask
 datetime
 dash_core_components
@@ -9,4 +9,3 @@ pandas_datareader
 plotly
 numpy
 pandas
-
